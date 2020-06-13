@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "110107143936",
+    "firebase_url": "https://doctor-chat-98c36.firebaseio.com",
+    "project_id": "doctor-chat-98c36",
+    "storage_bucket": "doctor-chat-98c36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110107143936:android:ccba0c783f757d9785cde5",
+        "android_client_info": {
+          "package_name": "com.abhinav.youchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "110107143936-65q0d7rm1iuaa0v7n7s4e550pdhp6jc3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abhinav.youchat",
+            "certificate_hash": "07028f81397751e8f463d56e31ab49489e405517"
+          }
+        },
+        {
+          "client_id": "110107143936-9qmgf8ha7srrcqfhui227h9hiqqvgstj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCemySo54x3p3V8ILL5veXMvihoqeaQWds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "110107143936-9qmgf8ha7srrcqfhui227h9hiqqvgstj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
